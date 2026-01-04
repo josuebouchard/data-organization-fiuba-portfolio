@@ -43,7 +43,7 @@ This repository documents my transition from foundational data engineering conce
     cd data-organization-fiuba-portfolio
     ```
 
-2.  **Download the datasets:** (:warning: work in progress)
+2.  **Download the datasets:**
     ```bash
     uv run scripts/download_data.py
     ```
